@@ -83,8 +83,8 @@
       </sap:WorkflowViewStateService.ViewState>
       <ui:LogMessage DisplayName="Log1" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Fatal" Message="[&quot;This is Log 1&quot;]" />
       <ui:LogMessage DisplayName="Log2" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Error" Message="[&quot;This is Log 2&quot;]" />
-      <ui:LogMessage DisplayName="Log5" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Trace" Message="[&quot;This is Log 5&quot;]" />
       <ui:LogMessage DisplayName="Log4" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;This is Log 4&quot;]" />
+      <ui:LogMessage DisplayName="Log5" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Trace" Message="[&quot;This is Log 5&quot;]" />
       <ui:LogMessage DisplayName="Log3" sap:VirtualizedContainerService.HintSize="416,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Warn" Message="[&quot;This is Log message 3&quot;]" />
     </Sequence>
   </Sequence>
